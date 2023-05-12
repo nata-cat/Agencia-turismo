@@ -1,0 +1,18 @@
+body{
+    background-color: #ececec;
+}
+
+#cardTour__img{
+    height: 500px;
+    background-color: black;
+}
+
+#cardTour__overlay{
+    margin-top: 45%;
+    color: azure;
+}
+
+#cardTour__tipo{
+    font-weight: 100;
+    font-size: 55px;
+}
